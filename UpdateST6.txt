@@ -1,2 +1,3 @@
 version=1
 text=0.0.1
+checkname=Francesco_Moore, Monkey_Delufy
