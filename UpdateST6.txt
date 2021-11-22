@@ -1,2 +1,2 @@
-version=7
-text=0.0.7
+version=8
+text=0.0.8
