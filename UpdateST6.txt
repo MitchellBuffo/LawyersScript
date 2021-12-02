@@ -1,2 +1,2 @@
-version=16
-text=0.1.6
+version=17
+text=0.1.7
