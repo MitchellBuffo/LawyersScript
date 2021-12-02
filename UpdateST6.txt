@@ -1,2 +1,2 @@
-version=17
-text=0.1.7
+version=18
+text=0.1.8
