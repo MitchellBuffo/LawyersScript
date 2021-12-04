@@ -1,2 +1,2 @@
-version=19
-text=0.1.9
+version=20
+text=0.2.0
