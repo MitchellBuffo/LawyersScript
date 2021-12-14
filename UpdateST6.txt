@@ -1,2 +1,2 @@
-version=256
+version=26
 text=0.2.6
