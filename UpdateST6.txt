@@ -1,2 +1,2 @@
-version=26
-text=0.2.6
+version=27
+text=0.2.7
