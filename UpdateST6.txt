@@ -1,2 +1,2 @@
-version=27
-text=0.2.7
+version=28
+text=0.2.8
