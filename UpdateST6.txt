@@ -1,2 +1,2 @@
-version=31
-text=0.3.1
+version=32
+text=0.3.2
