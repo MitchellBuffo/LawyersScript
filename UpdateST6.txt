@@ -1,2 +1,2 @@
-version=35
-text=0.3.5
+version=36
+text=0.3.6
